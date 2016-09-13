@@ -1,5 +1,7 @@
 # Vue.js Todo Example
 
+This is an example how to build a todo app with Vue.js
+
 > Vue.js is a library for building interactive web interfaces.
 It provides data-driven, nestable view components with a simple and flexible API.
 
