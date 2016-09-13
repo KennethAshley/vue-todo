@@ -23,4 +23,7 @@ Get help from other Vue.js users:
 
 _If you have other helpful links to share, or find any of the links above no longer work, please [let us know](https://github.com/tastejs/todomvc/issues)._
 
-.
+## Todo
+
+- Add LocalStorage
+- Add better deletion styles
