@@ -1,11 +1,13 @@
 # Vue.js Todo Example
 
-This is an example how to build a todo app with Vue.js
-
 > Vue.js is a library for building interactive web interfaces.
 It provides data-driven, nestable view components with a simple and flexible API.
 
 > _[Vue.js - vuejs.org](http://vuejs.org)_
+
+## Description
+
+This is an example how to build a todo app with Vue.js
 
 ## Learning Vue.js
 The [Vue.js website](http://vuejs.org/) is a great resource to get started.
